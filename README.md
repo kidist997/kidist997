@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... My portfolio website
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning ...React.js
 - 📫 How to reach me: ...kidistamanuel22@gmail.com
 
